@@ -1,0 +1,6 @@
+displayName = GvMod
+author = Reboot
+version = 0.7.0 
+hidecode = false
+hideresources = false
+includesource = true
